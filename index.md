@@ -1,2 +1,2 @@
-# Yle Radio Suomen kuuntelijoiden <a href="https://lahetysikkuna.wordpress.com">lähetysikkuna.</a>
- <iframe src="https://www.w3schools.com"></iframe>  
+# Yle Radio Suomen kuuntelijoiden <a href="https://lahetysikkuna.wordpress.com">lähetysikkuna.</a> 
+Ylen lopettaman Shoutbox lähetysikkunan korvaava ilmainen palvelu.
